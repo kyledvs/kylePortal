@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "dean-and-kyle": {
+      "hosting": {
+        "kylePortal": [
+          "facethechaos"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "dean-and-kyle"
+  }
+}
