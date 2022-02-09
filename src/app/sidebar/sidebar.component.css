@@ -1,0 +1,24 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto;
+    grid-gap: 10px;
+    padding: 10px;
+  }
+  
+  .grid-container > div {
+    background-color: rgba(255, 255, 255, 0.8);
+    text-align: center;
+    padding: 20px 0;
+    font-size: 30px;
+    border-radius: .2cm;
+  }
+
+
+  p {
+      color: blanchedalmond;
+  }
+
+  mat-icon {
+      color: rgb(158, 158, 158);
+  }
+  
